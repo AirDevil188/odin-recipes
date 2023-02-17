@@ -1,0 +1,30 @@
+h1.site-header{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orangered;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.recepie-link {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+}
+
+h3.ingredients {
+    font-size: 34px;
+    background-color: green;
+}
